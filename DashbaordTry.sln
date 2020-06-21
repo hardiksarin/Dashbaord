@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashbaord", "Dashbaord\Dashbaord.csproj", "{AFD36709-AB9C-4270-9178-5ABD80B2C6D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD36709-AB9C-4270-9178-5ABD80B2C6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD36709-AB9C-4270-9178-5ABD80B2C6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD36709-AB9C-4270-9178-5ABD80B2C6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD36709-AB9C-4270-9178-5ABD80B2C6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29C9E3C1-EE75-419C-900E-6A79ABD39953}
+	EndGlobalSection
+EndGlobal
